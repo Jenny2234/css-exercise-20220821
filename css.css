@@ -257,8 +257,9 @@ footer{
   padding: 0 16px;
 }
 
-footer span，footer p{
+footer span,footer p{
 font-size: 14px;
+line-height: 1.5;
 }
 footer span{
   color: #bb698c;
